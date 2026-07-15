@@ -405,14 +405,19 @@ nav a.active {
         transform:translateX(0);
     }
 
+  
+
     .right{
         width:100%;
         padding:20px;
+        min-height:100vh;
+        background-color:#4D2713;
     }
 
     .container{
         display:block;
     }
+
 }
 
 .page{
@@ -439,7 +444,7 @@ nav a.active {
 
 .cerceve {
     border-radius: 25px;
-    border: 2px solid #9c5a34;
+    border: 2px solid #F5F5DC;
     padding: 20px;
     width: 500px;
     margin: 40px auto; /* ortalayır */
